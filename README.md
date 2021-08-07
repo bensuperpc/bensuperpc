@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 ! I'm Bensuperpc, a 22 years old computer science student.
 
-<!--
-**bensuperpc/bensuperpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Archlinux** and **Manjaro**
+- 🌱 I’m currently learning C++, Docker ect...
+- 👯 I’m looking to collaborate on C++ project
+- 💬 Contact me: **bensuperpc@gmail.com** or through social networks.
+- ⚥ Gender:  Girl (Non-binary female)
+- 😄 Pronouns: She/Her/They-em
+- ⚡ Fun fact:  I am **autistic**
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/bensuperpc)
+[![Twitter](https://img.shields.io/twitter/follow/Bensuperpc?style=social)](https://twitter.com/Bensuperpc) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCJsQFFL7QW4LSX9eskq-9Yg?style=social)](https://www.youtube.com/channel/UCJsQFFL7QW4LSX9eskq-9Yg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&langs_count=9&layout=compact&hide=css)
