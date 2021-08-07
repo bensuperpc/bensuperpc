@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Archlinux** and **Manjaro**
 - 🌱 I’m currently learning C++, Docker ect...
-- 👯 I’m looking to collaborate on C++ project
+- 👯 I’m looking to collaborate to work on free and opensource projects
 - 💬 Contact me: **bensuperpc@gmail.com** or through social networks.
 - ⚥ Gender:  Girl (Non-binary female)
 - 😄 Pronouns: She/Her/They-em
