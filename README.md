@@ -10,9 +10,11 @@
 
 ### Social networks
 
-[![Twitter](https://img.shields.io/twitter/follow/Bensuperpc?style=social)](https://twitter.com/Bensuperpc) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCJsQFFL7QW4LSX9eskq-9Yg?style=social)](https://www.youtube.com/channel/UCJsQFFL7QW4LSX9eskq-9Yg)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bensuperpc)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJsQFFL7QW4LSX9eskq-9Yg)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bensuperpc)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bensuperpc)
 
-![Twitch Status](https://img.shields.io/twitch/status/bensuperpc?style=social) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Bensuperpc?style=social)
 
 ### Langages and tools
 
@@ -31,3 +33,6 @@
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=bensuperpc&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/bensuperpc)
+
+![Twitch Status](https://img.shields.io/twitch/status/bensuperpc?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Bensuperpc?style=social)
