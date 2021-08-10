@@ -14,12 +14,6 @@
 
 ![Twitch Status](https://img.shields.io/twitch/status/bensuperpc?style=social) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Bensuperpc?style=social)
 
-### Github stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true&theme=radical))
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&langs_count=9&layout=compact&hide=css&theme=radical))
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=bensuperpc&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Langages and tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -30,5 +24,10 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
-![Profile views](https://gpvc.arturio.dev/bensuperpc)
+### Github stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true&theme=radical))
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&langs_count=9&layout=compact&hide=css&theme=radical))
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=bensuperpc&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://gpvc.arturio.dev/bensuperpc)
