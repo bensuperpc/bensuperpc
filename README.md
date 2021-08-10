@@ -14,6 +14,11 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJsQFFL7QW4LSX9eskq-9Yg)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bensuperpc)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bensuperpc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bensuperpc)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://fr.quora.com/profile/Bensuperpc)
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bensuperpc)
+[![Gitlib](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Bensuperpc)
 
 
 ### Langages and tools
@@ -33,6 +38,3 @@
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=bensuperpc&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/bensuperpc)
-
-![Twitch Status](https://img.shields.io/twitch/status/bensuperpc?style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Bensuperpc?style=social)
