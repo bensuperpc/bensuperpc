@@ -58,10 +58,10 @@
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 
-#### Top repositories and organizations
+### Top repositories and organizations
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=scripts)](https://github.com/bensuperpc/scripts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dockcross&repo=dockcross)](https://github.com/dockcross/dockcross)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=scripts&theme=radical)](https://github.com/bensuperpc/scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dockcross&repo=dockcross&theme=radical)](https://github.com/dockcross/dockcross)
 
 ### Github stats
 
