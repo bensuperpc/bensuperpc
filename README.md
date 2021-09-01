@@ -8,7 +8,7 @@
 - 😄 Pronouns: She/Her/They-em
 - ⚡ Fun fact:  I am **autistic**
 
-### Social networks
+### Social networks (Links)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bensuperpc)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJsQFFL7QW4LSX9eskq-9Yg)
