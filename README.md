@@ -1,12 +1,12 @@
 ### Hi there 👋 ! I'm Bensuperpc, a 22 years old computer science student.
 
-- 🔭 I’m currently working on **Archlinux** and **Manjaro**
-- 🌱 I’m currently learning C++, Docker ect...
-- 👯 I’m looking to collaborate to work on free and opensource projects
+- 🔭 I’m currently working on Linux: **Archlinux** and **Manjaro**
+- 🌱 I’m currently learning C++, CMake, Docker ect...
+- 👯 I’m looking to collaborate to work on free and opensource projects (Dockcross org.)
 - 💬 Contact me: **bensuperpc@gmail.com** or through social networks.
 - ⚥ Gender:  Girl (Non-binary female)
 - 😄 Pronouns: She/Her/They-em
-- ⚡ Fun fact:  I am **autistic**
+- ⚡ Fun fact: I am **autistic** and **french**
 
 ### Social networks (Links)
 
