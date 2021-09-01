@@ -6,7 +6,8 @@
 - 💬 Contact me: **bensuperpc@gmail.com** or through social networks.
 - ⚥ Gender:  Girl (Non-binary female)
 - 😄 Pronouns: She/Her/They-em
-- ⚡ Fun fact: I am **autistic** and **french**
+- ⚡ Fun fact: I am **autistic**
+- 🗺️ I am French, I can speak English a little ^^
 
 ### Social networks (Links)
 
