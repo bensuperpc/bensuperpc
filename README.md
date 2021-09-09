@@ -7,7 +7,7 @@
 - ⚥ Gender:  Girl (Non-binary female)
 - 😄 Pronouns: She/Her/They-em
 - ⚡ Fun fact: I am **autistic**
-- 🗺️ I am French, I can speak English a little ^^
+- 🇫🇷 I am French, I can speak English a little ^^
 
 ### Social networks (Links)
 
