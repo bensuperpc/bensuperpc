@@ -72,8 +72,8 @@
 
 ### My working station
 
-![Nvidia](https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-Core_i7_9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Core_i7_11800H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ### Others
 
