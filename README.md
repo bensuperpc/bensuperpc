@@ -44,6 +44,7 @@
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### Tools
 
@@ -95,5 +96,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/bensuperpc)
 
+### Badges sources
 
-https://github.com/Ileriayo/markdown-badges
+-   https://github.com/Ileriayo/markdown-badges
+-   https://github.com/Naereen/badges
+-   https://shields.io/
