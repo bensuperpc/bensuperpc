@@ -78,8 +78,8 @@
 
 ### My working station
 
-![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-Radeon_VEGA_8-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ### Others devices
