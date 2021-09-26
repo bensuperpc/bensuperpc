@@ -93,7 +93,7 @@
 
 ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)
 
-![Switch](https://img.shields.io/badge/Switch_-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+![Switch](https://img.shields.io/badge/Switch_v1-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 
