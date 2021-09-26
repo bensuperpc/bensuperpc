@@ -5,11 +5,11 @@
 - 👯 I’m looking to collaborate to work on free and opensource projects (Dockcross org.)
 - 💬 Contact me: **bensuperpc@gmail.com** or through social networks.
 - ⚥ Gender:  Girl (Non-binary female)
-- 😄 Pronouns: She/Her/They-em
+- 😄 Pronouns: She/Her/They
 - ⚡ Fun fact: I am **autistic**
 - 🇫🇷 I am French, I can speak English a little ^^
 
-### Social networks (Links)
+### Social networks (Hyperlinks)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bensuperpc)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJsQFFL7QW4LSX9eskq-9Yg)
@@ -33,7 +33,7 @@
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-### Langages and tools
+### Langages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,6 +41,8 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Tools
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
