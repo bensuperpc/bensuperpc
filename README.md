@@ -75,8 +75,14 @@
 
 ### Github stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&langs_count=9&layout=compact&hide=css&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&langs_count=9&layout=compact&hide=css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bensuperpc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=bensuperpc&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My working station
@@ -110,6 +116,7 @@
 ### Badges sources
 
 -   https://github.com/Ileriayo/markdown-badges
+-   https://github.com/ryo-ma/github-profile-trophy
 -   https://dev.to/envoy_/150-badges-for-github-pnk
 -   https://github.com/Naereen/badges
 -   https://shields.io/
