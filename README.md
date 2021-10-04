@@ -79,9 +79,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bensuperpc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=bensuperpc&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
