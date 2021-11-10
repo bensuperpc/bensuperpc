@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning C++, CMake, Docker ect...
 - 👯 I’m looking to collaborate to work on free and opensource projects (Dockcross org.)
 - 💬 Contact me: **bensuperpc [at] gmail [dot] com** or through social networks.
-- ⚥ Gender:  Girl (Non-binary female)
-- 😄 Pronouns: She/Her/They
 - ⚡ Fun fact: I am **autistic**
 - 🇫🇷 I am French, I can speak English a little ^^
 
