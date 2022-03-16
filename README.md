@@ -1,4 +1,4 @@
-### Hi there 👋 ! I'm Bensuperpc, a 22 years old computer science student.
+### Hi there 👋 ! I'm Bensuperpc, a 23 years old computer science student.
 
 - 🔭 I’m currently working on Linux: **Archlinux** and **Manjaro**
 - 🌱 I’m currently learning C++, CMake, Docker ect...
