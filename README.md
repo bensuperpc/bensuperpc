@@ -72,6 +72,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dockcross&repo=dockcross&theme=radical)](https://github.com/dockcross/dockcross)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=GTA_SA_cheat_finder&theme=radical)](https://github.com/bensuperpc/GTA_SA_cheat_finder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=crc32&theme=radical)](https://github.com/bensuperpc/crc32)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=krackx&theme=radical)](https://github.com/bensuperpc/krackx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=docker-minecraft-server&theme=radical)](https://github.com/bensuperpc/docker-minecraft-server)
 
 ### Github stats
 
