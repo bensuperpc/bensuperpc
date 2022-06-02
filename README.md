@@ -82,7 +82,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&langs_count=9&layout=compact&hide=css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![bensuperpc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bensuperpc&theme=radical)](https://wakatime.com/@bensuperpc)
+<!--- [![bensuperpc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bensuperpc&theme=radical)](https://wakatime.com/@bensuperpc) --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![bensuperpc's github trophy](https://github-profile-trophy.vercel.app/?username=bensuperpc&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
