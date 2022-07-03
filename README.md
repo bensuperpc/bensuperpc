@@ -77,6 +77,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=crc32&theme=radical)](https://github.com/bensuperpc/crc32)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=krackx&theme=radical)](https://github.com/bensuperpc/krackx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=docker-minecraft-server&theme=radical)](https://github.com/bensuperpc/docker-minecraft-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=vector&theme=radical)](https://github.com/bensuperpc/vector)
 
 ### Github stats
 
