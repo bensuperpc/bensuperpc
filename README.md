@@ -1,4 +1,4 @@
-### Hi there 👋 ! I'm Bensuperpc, a 23 years old
+### Hi there 👋 ! I'm Bensuperpc
 
 - 🔭 I’m currently working on Linux: **Archlinux** and **Manjaro**
 - 🌱 I’m currently learning C11, C++17 and python 3, CMake, Docker ect...
