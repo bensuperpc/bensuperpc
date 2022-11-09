@@ -47,6 +47,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dockcross&repo=dockcross&theme=radical)](https://github.com/dockcross/dockcross) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=scripts&theme=radical)](https://github.com/bensuperpc/scripts) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=game-of-life&theme=radical)](https://github.com/bensuperpc/game-of-life)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=GTA_SA_cheat_finder&theme=radical)](https://github.com/bensuperpc/GTA_SA_cheat_finder) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=crc32&theme=radical)](https://github.com/bensuperpc/crc32) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=docker-minecraft-server&theme=radical)](https://github.com/bensuperpc/docker-minecraft-server) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=vector&theme=radical)](https://github.com/bensuperpc/vector) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=bensuperpc_website&theme=radical)](https://github.com/bensuperpc/bensuperpc_website)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=experimentation&theme=radical)](https://github.com/bensuperpc/experimentation) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=open_nsfw&theme=radical)](https://github.com/bensuperpc/open_nsfw)
+
+
+
 ### Github stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&langs_count=9&layout=compact&hide=css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
