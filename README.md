@@ -64,7 +64,7 @@
 
 ### Others devices
 
-![Nvidia](https://img.shields.io/badge/NVIDIA-840M-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Intel](https://img.shields.io/badge/Intel-Core_i7_4710MQ-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi_4B_8GB-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi_4B_8GB-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ### Consoles
 
