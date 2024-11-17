@@ -1,7 +1,7 @@
 ### Hi there 👋 ! I'm Bensuperpc
 
 - 🔭 I’m currently working on Linux: **Archlinux** and **Manjaro**
-- 🌱 I’m currently learning C11, C++17 and python 3, CMake, Docker ect...
+- 🌱 I’m currently learning C11, C++17 and python 3, CMake, Docker etc...
 - 👯 I’m looking to collaborate to work on free and opensource projects (Dockcross org.)
 - 💬 Contact me: **bensuperpc [at] gmail [dot] com** or through social networks.
 - ⚡ Fun fact: I am **autistic**
