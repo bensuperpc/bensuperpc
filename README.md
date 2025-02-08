@@ -34,16 +34,6 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
-#### Office and project
-
-![Google](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![MS](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-#### Photos and others
-
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
-
 ### Top repositories and organizations
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dockcross&repo=dockcross&theme=radical)](https://github.com/dockcross/dockcross) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=infrastructure&theme=radical)](https://github.com/bensuperpc/infrastructure) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=scripts&theme=radical)](https://github.com/bensuperpc/scripts) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=GTASA_code_alternatives&theme=radical)](https://github.com/bensuperpc/GTASA_code_alternatives) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=docker-qt&theme=radical)](https://github.com/bensuperpc/docker-qt) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=astar&theme=radical)](https://github.com/bensuperpc/astar) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=crc32&theme=radical)](https://github.com/bensuperpc/crc32) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=docker-minecraft-server&theme=radical)](https://github.com/bensuperpc/docker-minecraft-server) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=benlib&theme=radical)](https://github.com/bensuperpc/benlib) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=RTL9210&theme=radical)](https://github.com/bensuperpc/RTL9210) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=experimentation&theme=radical)](https://github.com/bensuperpc/experimentation) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=world_of_blocks&theme=radical)](https://github.com/bensuperpc/world_of_blocks)
