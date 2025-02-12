@@ -16,6 +16,16 @@
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bensuperpc) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bensuperpc) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://fr.quora.com/profile/Bensuperpc) [![TikTok](https://img.shields.io/badge/Bensuperpc-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@bensuperpc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Bensuperpc) 
 
+### Github stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&langs_count=9&layout=compact&hide=css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![bensuperpc's github trophy](https://github-profile-trophy.vercel.app/?username=bensuperpc&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Bensuperpc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bensuperpc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Main OS
 
 ![Archlinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)  ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -39,15 +49,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dockcross&repo=dockcross&theme=radical)](https://github.com/dockcross/dockcross) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=infrastructure&theme=radical)](https://github.com/bensuperpc/infrastructure) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=scripts&theme=radical)](https://github.com/bensuperpc/scripts) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=GTASA_code_alternatives&theme=radical)](https://github.com/bensuperpc/GTASA_code_alternatives) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=docker-qt&theme=radical)](https://github.com/bensuperpc/docker-qt) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=astar&theme=radical)](https://github.com/bensuperpc/astar) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=crc32&theme=radical)](https://github.com/bensuperpc/crc32) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=docker-minecraft-server&theme=radical)](https://github.com/bensuperpc/docker-minecraft-server) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=benlib&theme=radical)](https://github.com/bensuperpc/benlib) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=RTL9210&theme=radical)](https://github.com/bensuperpc/RTL9210) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=experimentation&theme=radical)](https://github.com/bensuperpc/experimentation) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bensuperpc&repo=world_of_blocks&theme=radical)](https://github.com/bensuperpc/world_of_blocks)
 
 
-
-### Github stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&langs_count=9&layout=compact&hide=css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bensuperpc&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensuperpc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![bensuperpc's github trophy](https://github-profile-trophy.vercel.app/?username=bensuperpc&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### My working station
 
 #### Lenovo Legion 5 Pro
@@ -60,10 +61,6 @@
 ### Consoles
 
 ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white) ![Switch](https://img.shields.io/badge/Switch_v1-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white) ![3DS](https://img.shields.io/badge/3DS_XL-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
-
-### Others
-
-![Profile views](https://gpvc.arturio.dev/bensuperpc)
 
 ### Badges sources
 
